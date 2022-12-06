@@ -32,7 +32,17 @@ The present workflow is composed by the following unique components (Note that s
 **Parameters**: 0\
 **Authors**: @drpatelh, @grst, @ewels, @FelixKrueger
 
+### ramyakambrath1_abacas123
+
+**Description**: contiguate draft genome assembly\
+**Inputs**: 2\
+**Outputs**: 2\
+**Parameters**: 0\
+**Authors**: @joseespinosa, @drpatelh
+
 ## Inputs
 
 - `--download_reads_1.accessions`: Accession file CSV file with a label in the first column and the accession number in the second column.
 - `--fastqc_2.meta_reads`: 
+- `--abacas123_1.meta_scaffold`: 
+- `--abacas123_1.fasta`: 
